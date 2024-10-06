@@ -28,6 +28,7 @@ C:\Users\Administrator\Desktop\Storee\Store.Service\obj\Debug\net8.0\Store.Servi
 C:\Users\Administrator\Desktop\Storee\Store.Service\obj\Debug\net8.0\Store.Service.AssemblyInfoInputs.cache
 C:\Users\Administrator\Desktop\Storee\Store.Service\obj\Debug\net8.0\Store.Service.AssemblyInfo.cs
 C:\Users\Administrator\Desktop\Storee\Store.Service\obj\Debug\net8.0\Store.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Storee\Store.Service\obj\Debug\net8.0\Store.Service.sourcelink.json
 C:\Users\Administrator\Desktop\Storee\Store.Service\obj\Debug\net8.0\Store.Se.AEB3E340.Up2Date
 C:\Users\Administrator\Desktop\Storee\Store.Service\obj\Debug\net8.0\Store.Service.dll
 C:\Users\Administrator\Desktop\Storee\Store.Service\obj\Debug\net8.0\refint\Store.Service.dll

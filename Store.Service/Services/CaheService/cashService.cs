@@ -1,8 +1,7 @@
 ﻿using StackExchange.Redis;
-using Store.Service.CaheSeervice;
 using System.Text.Json;
 
-namespace Store.Service.CaheService
+namespace Store.Service.Services.CaheService
 {
 
 
@@ -33,7 +32,7 @@ namespace Store.Service.CaheService
 
             var SerializeedResponse = JsonSerializer.Serialize(response, option);
 
-            await _database.StringSetAsync(Key, SerializeedResponse, TimeToLive );
+            await _database.StringSetAsync(Key, SerializeedResponse, TimeToLive);
 
 
         }

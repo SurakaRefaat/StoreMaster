@@ -2,12 +2,11 @@
 using Store.Repository.Specification.ProductSpecs;
 using Store.Service.Services.ProductService;
 using Store.Service.Services.ProductService.Dtos;
+using Store.Web.Controllers;
 
 namespace Store.Web.Helper
 {
-    [Route("api/[controller]/[action]")]
-    [ApiController]
-    public class ProductController : ControllerBase
+    public class ProductController : BaseController
     {
         private readonly IProuductService _prouductService;
 

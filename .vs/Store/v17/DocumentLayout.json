@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Storee\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5E21273A-614B-4FEC-8600-E47BA9A06D60}|Store.Service\\Store.Service.csproj|c:\\users\\administrator\\desktop\\storee\\store.service\\store.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5E21273A-614B-4FEC-8600-E47BA9A06D60}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\store.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{250DC04B-4504-4F4B-9148-83D94C047A53}|Store.Web\\Store.Web.csproj|c:\\users\\administrator\\desktop\\storee\\store.web\\store.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{250DC04B-4504-4F4B-9148-83D94C047A53}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\store.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBFB4228-A1BF-4CC4-A002-FBE1F51C23E8}|Store.Repository\\Store.Repository.csproj|c:\\users\\administrator\\desktop\\storee\\store.repository\\store.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CBFB4228-A1BF-4CC4-A002-FBE1F51C23E8}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\store.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,45 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Store.Web",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\Store.Web.csproj",
-              "RelativeDocumentMoniker": "Store.Web\\Store.Web.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\Store.Web.csproj",
-              "RelativeToolTip": "Store.Web\\Store.Web.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-03T17:13:11.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Store.Service",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Service\\Store.Service.csproj",
-              "RelativeDocumentMoniker": "Store.Service\\Store.Service.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Service\\Store.Service.csproj",
-              "RelativeToolTip": "Store.Service\\Store.Service.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-03T17:13:10.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Store.Repository",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Repository\\Store.Repository.csproj",
-              "RelativeDocumentMoniker": "Store.Repository\\Store.Repository.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Repository\\Store.Repository.csproj",
-              "RelativeToolTip": "Store.Repository\\Store.Repository.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-03T17:13:08.01Z",
-              "EditorCaption": ""
             }
           ]
         }

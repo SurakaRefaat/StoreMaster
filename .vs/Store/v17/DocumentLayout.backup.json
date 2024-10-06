@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Storee\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CBFB4228-A1BF-4CC4-A002-FBE1F51C23E8}|Store.Repository\\Store.Repository.csproj|c:\\users\\administrator\\desktop\\storee\\store.repository\\specification\\productspecs\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBFB4228-A1BF-4CC4-A002-FBE1F51C23E8}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\productspecs\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBFB4228-A1BF-4CC4-A002-FBE1F51C23E8}|Store.Repository\\Store.Repository.csproj|c:\\users\\administrator\\desktop\\storee\\store.repository\\specification\\productspecs\\productwithspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBFB4228-A1BF-4CC4-A002-FBE1F51C23E8}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\productspecs\\productwithspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{250DC04B-4504-4F4B-9148-83D94C047A53}|Store.Web\\Store.Web.csproj|c:\\users\\administrator\\desktop\\storee\\store.web\\helper\\casheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{250DC04B-4504-4F4B-9148-83D94C047A53}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\helper\\casheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,46 +25,11 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductSpecification.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T17:11:35.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductWithSpecification.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecification.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecification.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecification.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecification.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T17:11:19.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CasheAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\Helper\\CasheAttribute.cs",
-              "RelativeDocumentMoniker": "Store.Web\\Helper\\CasheAttribute.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\Helper\\CasheAttribute.cs",
-              "RelativeToolTip": "Store.Web\\Helper\\CasheAttribute.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAApwCYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T17:10:42.159Z",
-              "EditorCaption": ""
             }
           ]
         }

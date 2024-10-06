@@ -19,6 +19,7 @@ C:\Users\Administrator\Desktop\Storee\Store.Data\obj\Debug\net8.0\Store.Data.Gen
 C:\Users\Administrator\Desktop\Storee\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfoInputs.cache
 C:\Users\Administrator\Desktop\Storee\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfo.cs
 C:\Users\Administrator\Desktop\Storee\Store.Data\obj\Debug\net8.0\Store.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Storee\Store.Data\obj\Debug\net8.0\Store.Data.sourcelink.json
 C:\Users\Administrator\Desktop\Storee\Store.Data\obj\Debug\net8.0\Store.Data.dll
 C:\Users\Administrator\Desktop\Storee\Store.Data\obj\Debug\net8.0\refint\Store.Data.dll
 C:\Users\Administrator\Desktop\Storee\Store.Data\obj\Debug\net8.0\Store.Data.pdb

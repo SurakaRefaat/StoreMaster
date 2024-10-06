@@ -4,8 +4,10 @@ using Store.Repository.Repositories;
 using Store.Service.Services.ProductService.Dtos;
 using Store.Service.Services.ProductService;
 using Store.Service.HandleResponses;
-using Store.Service.CaheSeervice;
-using Store.Service.CaheService;
+using Store.Service.Services.CaheService;
+using Store.Service.Services.BasketService.Dtos;
+using Store.Service.Services.BasketService;
+using Store.Repository.Basket;
 
 namespace Store.Web.Extensions
 {
@@ -14,12 +16,15 @@ namespace Store.Web.Extensions
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
             services.AddScoped<IUnitOfWork, UnitOfWork>();
-
+             
             services.AddScoped<IProuductService, ProuductService>();
 
             services.AddScoped<IcashService,cashService>();
+            services.AddScoped<IBasketService, BasketService>();
+            services.AddScoped<IBasketRepository, BasketRepository>();
 
             services.AddAutoMapper(typeof(ProductProfile));
+            services.AddAutoMapper(typeof(BasketProfile));
 
 
             services.Configure<ApiBehaviorOptions>(option =>
