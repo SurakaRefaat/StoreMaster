@@ -31,7 +31,7 @@ namespace Store.Web
                 return ConnectionMultiplexer.Connect(configration);
             });
 
-            builder.Services.AddIdentityServices();
+            builder.Services.AddIdentityServices(builder.Configuration);
 
             builder.Services.AddApplicationServices();
 
@@ -40,7 +40,7 @@ namespace Store.Web
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+            builder.Services.AddSwaggerDocumentation();
 
             var app = builder.Build();
 

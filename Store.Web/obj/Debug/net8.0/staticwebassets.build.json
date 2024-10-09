@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "708dUx6PNVJiw/JMrFhV/fBG1tZc/3Hk90PJTDKf5hQ=",
+  "Hash": "eEphOkmh5lXZ9RFcBbkpwZt7+Pn2TXiDFDDeb57XTmw=",
   "Source": "Store.Web",
   "BasePath": "_content/Store.Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Store.Web\\wwwroot",
       "Source": "Store.Web",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/CheesyVegetableLasagna.png",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\CheesyVegetableLasagna.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\ChickenMarsala.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\ChickenMarsala.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/ChickenMarsala.png",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ChickenMarsala.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/ChickenTeriyakiNoodles.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ChickenTeriyakiNoodles.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\ChickenTikkaMasala.jpg",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\ChickenTikkaMasala.jpg",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/ChickenTikkaMasala.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ChickenTikkaMasala.jpg"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\Congee.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\Congee.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/Congee.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Congee.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/CreamyGochujangTortellini.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\CreamyGochujangTortellini.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/CrispyVegetablePakoras.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\CrispyVegetablePakoras.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\HaluskiNoodles.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\HaluskiNoodles.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/HaluskiNoodles.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\HaluskiNoodles.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/HeartyVegetableLasagna.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\HeartyVegetableLasagna.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/ItalianChickenMarinade.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ItalianChickenMarinade.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/ItalianWeddingSoup.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ItalianWeddingSoup.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\Kulfi.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\Kulfi.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/Kulfi.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Kulfi.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\PastaSalad.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\PastaSalad.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/PastaSalad.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\PastaSalad.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\PepperPasta.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\PepperPasta.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/PepperPasta.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\PepperPasta.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/ShrimpEggFooYoung.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ShrimpEggFooYoung.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\TandooriChicken.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\TandooriChicken.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/TandooriChicken.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\TandooriChicken.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\VegetarianKorma.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\VegetarianKorma.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/VegetarianKorma.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\VegetarianKorma.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
       "SourceId": "Store.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\wwwroot\\",
       "BasePath": "_content/Store.Web",
       "RelativePath": "images/products/VegetarianRefriedBeans.png",
       "AssetKind": "All",

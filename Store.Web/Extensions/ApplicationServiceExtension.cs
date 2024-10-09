@@ -8,6 +8,8 @@ using Store.Service.Services.CaheService;
 using Store.Service.Services.BasketService.Dtos;
 using Store.Service.Services.BasketService;
 using Store.Repository.Basket;
+using Store.Service.Services.TokenService;
+using Store.Service.Services.UserService;
 
 namespace Store.Web.Extensions
 {
@@ -16,13 +18,12 @@ namespace Store.Web.Extensions
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
             services.AddScoped<IUnitOfWork, UnitOfWork>();
-             
             services.AddScoped<IProuductService, ProuductService>();
-
             services.AddScoped<IcashService,cashService>();
             services.AddScoped<IBasketService, BasketService>();
             services.AddScoped<IBasketRepository, BasketRepository>();
-
+            services.AddScoped<ITokenService, TokenService>();
+            services.AddScoped<IUserService, UserService>();
             services.AddAutoMapper(typeof(ProductProfile));
             services.AddAutoMapper(typeof(BasketProfile));
 

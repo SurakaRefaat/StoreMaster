@@ -3062,11 +3062,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Repository\\Store.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Repository\\Store.Repository.csproj",
       "projectName": "Store.Repository",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Repository\\Store.Repository.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Repository\\Store.Repository.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Repository\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3084,8 +3084,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Data\\Store.Data.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Desktop\\Storee\\Store.Data\\Store.Data.csproj"
+            "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Store.Data.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Store.Data.csproj"
             }
           }
         }
