@@ -51,8 +51,7 @@ namespace Store.Web.Controllers
             {
                 Id = Guid.Parse(user.Id),
                 DisplayName = user.DisplayName,
-                Email = user.Email,
-               
+                Email = user.Email
             };
         }
     }

@@ -200,7 +200,6 @@ C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\Microso
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\StackExchange.Redis.dll
@@ -214,13 +213,11 @@ C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\System.
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\System.Memory.Data.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -279,12 +276,7 @@ C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\runtime
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\Store.Data.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\Store.Repository.dll
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\Store.Service.dll
@@ -313,3 +305,5 @@ C:\Users\Administrator\Desktop\project\Storee\Store.Web\obj\Debug\net8.0\refint\
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\obj\Debug\net8.0\Store.Web.pdb
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\obj\Debug\net8.0\Store.Web.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\project\Storee\Store.Web\obj\Debug\net8.0\ref\Store.Web.dll
+C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\project\Storee\Store.Web\bin\Debug\net8.0\Stripe.net.dll

@@ -16,5 +16,8 @@ namespace Store.Repository.Baket.Modles
         public decimal ShippingPrice { get; set; }
 
         public List<BasketItem> BaskeItems { get; set; } = new List<BasketItem>();
+
+        public string? PaymentIntentId { get; set; }
+        public string? ClientSecret { get; set; }
     }
 }

@@ -2,10 +2,10 @@
 {
     public class Order :BaseEntitiy<Guid>
     {
-        public string BuyerEmail { get; set; }
+        public string? BuyerEmail { get; set; }
         public DateTimeOffset OrderDate { get; set; } = DateTimeOffset.Now;
 
-        public SippingAddress SippingAddress { get; set; }
+        public ShippingAddress SippingAddress { get; set; }
 
         public DeliveryMethod DeliveryMethod { get; set; }
 
@@ -21,8 +21,6 @@
         public decimal GetTotal() 
             => SubTotal + DeliveryMethod.Price;
         public string? BasketId { get; set; }
-
-
-
+        public string? PaymentIntentId { get; set; }
     }
 }

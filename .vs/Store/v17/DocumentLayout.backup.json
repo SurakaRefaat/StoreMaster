@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|c:\\users\\administrator\\desktop\\project\\storee\\store.data\\entities\\orderentities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E21273A-614B-4FEC-8600-E47BA9A06D60}|Store.Service\\Store.Service.csproj|c:\\users\\administrator\\desktop\\project\\storee\\store.service\\services\\paymentservice\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E21273A-614B-4FEC-8600-E47BA9A06D60}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\paymentservice\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|c:\\users\\administrator\\desktop\\project\\storee\\store.data\\entities\\orderentities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBFB4228-A1BF-4CC4-A002-FBE1F51C23E8}|Store.Repository\\Store.Repository.csproj|c:\\users\\administrator\\desktop\\project\\storee\\store.repository\\specification\\orderspecs\\orderwithpaymenyintentspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFB4228-A1BF-4CC4-A002-FBE1F51C23E8}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\orderspecs\\orderwithpaymenyintentspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|c:\\users\\administrator\\desktop\\project\\storee\\store.data\\entities\\orderentities\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E21273A-614B-4FEC-8600-E47BA9A06D60}|Store.Service\\Store.Service.csproj|c:\\users\\administrator\\desktop\\project\\storee\\store.service\\services\\orderservice\\dtos\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E21273A-614B-4FEC-8600-E47BA9A06D60}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\orderservice\\dtos\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|c:\\users\\administrator\\desktop\\project\\storee\\store.data\\entities\\identityentites\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\identityentites\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{250DC04B-4504-4F4B-9148-83D94C047A53}|Store.Web\\Store.Web.csproj|c:\\users\\administrator\\desktop\\project\\storee\\store.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{250DC04B-4504-4F4B-9148-83D94C047A53}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|c:\\users\\administrator\\desktop\\project\\storee\\store.data\\entities\\orderentities\\orderpaymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\orderpaymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|c:\\users\\administrator\\desktop\\project\\storee\\store.data\\entities\\orderentities\\ordestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\ordestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|c:\\users\\administrator\\desktop\\project\\storee\\store.data\\entities\\orderentities\\sippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\sippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|c:\\users\\administrator\\desktop\\project\\storee\\store.data\\entities\\identityentites\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D12F3C01-C001-4761-8204-A92F8246198F}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\identityentites\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E21273A-614B-4FEC-8600-E47BA9A06D60}|Store.Service\\Store.Service.csproj|c:\\users\\administrator\\desktop\\project\\storee\\store.service\\services\\paymentservice\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E21273A-614B-4FEC-8600-E47BA9A06D60}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\paymentservice\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,45 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductItem.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\OrderEntities\\ProductItem.cs",
-              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\ProductItem.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\OrderEntities\\ProductItem.cs",
-              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\ProductItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:25:57.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\OrderEntities\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\OrderEntities\\OrderItem.cs",
-              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "OrderWithPaymenyIntentSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Repository\\Specification\\OrderSpecs\\OrderWithPaymenyIntentSpecification.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specification\\OrderSpecs\\OrderWithPaymenyIntentSpecification.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Repository\\Specification\\OrderSpecs\\OrderWithPaymenyIntentSpecification.cs",
+              "RelativeToolTip": "Store.Repository\\Specification\\OrderSpecs\\OrderWithPaymenyIntentSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:24:19.983Z",
+              "WhenOpened": "2024-10-14T19:46:52.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\IdentityEntites\\AppUser.cs",
-              "RelativeDocumentMoniker": "Store.Data\\Entities\\IdentityEntites\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\IdentityEntites\\AppUser.cs",
-              "RelativeToolTip": "Store.Data\\Entities\\IdentityEntites\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Service\\Services\\OrderService\\Dtos\\OrderService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\OrderService\\Dtos\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Service\\Services\\OrderService\\Dtos\\OrderService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\OrderService\\Dtos\\OrderService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:16:40.806Z",
+              "WhenOpened": "2024-10-14T18:36:40.278Z",
               "EditorCaption": ""
             },
             {
@@ -96,68 +71,46 @@
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderPaymentStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\OrderEntities\\OrderPaymentStatus.cs",
-              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\OrderPaymentStatus.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\OrderEntities\\OrderPaymentStatus.cs",
-              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\OrderPaymentStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:22:29.818Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrdeStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\OrderEntities\\OrdeStatus.cs",
-              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\OrdeStatus.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\OrderEntities\\OrdeStatus.cs",
-              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\OrdeStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:19:51.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\IdentityEntites\\Address.cs",
-              "RelativeDocumentMoniker": "Store.Data\\Entities\\IdentityEntites\\Address.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\IdentityEntites\\Address.cs",
-              "RelativeToolTip": "Store.Data\\Entities\\IdentityEntites\\Address.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:16:21.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SippingAddress.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\OrderEntities\\SippingAddress.cs",
-              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\SippingAddress.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\OrderEntities\\SippingAddress.cs",
-              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\SippingAddress.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:16:07.138Z",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Store.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Web\\appsettings.json",
+              "RelativeToolTip": "Store.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T18:29:09.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\OrderEntities\\Order.cs",
-              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\Order.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Data\\Entities\\OrderEntities\\Order.cs",
-              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Service\\Services\\PaymentService\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\PaymentService\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Service\\Services\\PaymentService\\PaymentService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\PaymentService\\PaymentService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAA9wIAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:13:51.248Z",
+              "WhenOpened": "2024-10-14T18:04:52.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Service\\Services\\PaymentService\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\PaymentService\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\project\\Storee\\Store.Service\\Services\\PaymentService\\IPaymentService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\PaymentService\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:59:59.454Z",
               "EditorCaption": ""
             }
           ]

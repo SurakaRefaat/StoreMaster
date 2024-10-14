@@ -1,5 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Store.Data.Entities;
+using Store.Data.Entities.OrderEntities;
+using System.Reflection;
 
 namespace Store.Data.Contexts
 {
@@ -7,11 +9,11 @@ namespace Store.Data.Contexts
     {
         public StoreDbContext(DbContextOptions<StoreDbContext> options) : base(options)
         { 
-        
+         
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
 
             base.OnModelCreating(modelBuilder);
         }
@@ -22,6 +24,10 @@ namespace Store.Data.Contexts
         public DbSet<ProductType> ProductsTypes { get; set; }
 
         public DbSet<DeliveryMethod> DeliveryMethods { get; set; }
+
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderItem> OrderItems { get; set; }
+
 
     }
 
